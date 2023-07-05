@@ -15,4 +15,5 @@ RNA sequencing reads used in this study have been deposited in Short Read Archiv
 
 
 ## Code/Software
-elife_code.R is the source code file used in this study. The file can be opened with Rstudio and VCFtools.
+"TScode.R" is the source code file used in this study. The file can be opened with Rstudio. 
+The code to calculate FST is also listed in the same file.
