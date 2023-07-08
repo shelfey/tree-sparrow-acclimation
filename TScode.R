@@ -378,7 +378,7 @@ for (j in 1:length(file)) {
 rf<-data.frame(reinforce=f,reverse=r,all=all)
 write.table(rf,"reinforce and reversion.txt",row.names = F,quote = F,sep = "\t")
 
-####Binomial l test
+####Binomial test
 data<-read.csv("reinforce and reversion.txt",header = T,sep = "\t")
 head(data)
 p<-c()
